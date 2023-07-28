@@ -20,3 +20,9 @@ sudo pip3 install mage-ai
 # Start Mage
 
 mage start <project name>
+
+# Install google-cloud module
+
+sudo pip3 install google-cloud
+
+sudo pip3 install google-cloud-bigquery
